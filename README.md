@@ -7,5 +7,5 @@ i have added some extra feature.
 
 # TO-dO
 ```
-Add a google map feature, like when user click on decide button the application shows them a food name as well as when user click on that output food name than application call for google map api and find nearest restrurant where that food is available.
+Add a google map feature, like when user click on decide button </br> the application shows them a food name as well as when user click on that output food name </br> than application call for google map api and find nearest restrurant where that food is available.
 ```
