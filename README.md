@@ -5,12 +5,12 @@ It ask from user to enter Some foods in list and than when user click on decide 
 buit while learning kotlin.
 I have added some extra feature.
 
+# Screen Shots </br>
+<IMG src="ss.jpeg" height="420px" width="280px" alt="screenshot"/>
+
 # Source
-https://www.youtube.com/watch?v=sZWMPYIkNd8
+https://www.youtube.com/watch?v=sZWMPYIkNd8 </br>
 https://devslopes.com
-
-# Screen Shots
-
 
 # TO-dO
 ```
