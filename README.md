@@ -12,6 +12,8 @@ I have added some extra feature.
 https://www.youtube.com/watch?v=sZWMPYIkNd8 </br>
 https://devslopes.com
 
+Thanks For [Vishal Koshti](https://github.com/vkoshti)
+
 # TO-dO
 ```
 Add a google map feature, like when user click on decide button
