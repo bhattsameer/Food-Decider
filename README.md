@@ -2,7 +2,8 @@
 Android Application FOoD Decider, buit in kotlin.
 It ask from user to enter Some foods in list and than when user click on decide it will choose random food from that list and show it to user on screen.
 
-buit while learning kotlin.
+built while learning kotlin.
+Thanks to [Vishal Koshti](https://github.com/vkoshti)
 I have added some extra feature.
 
 # Screen Shots </br>
@@ -12,7 +13,7 @@ I have added some extra feature.
 https://www.youtube.com/watch?v=sZWMPYIkNd8 </br>
 https://devslopes.com
 
-Thanks to [Vishal Koshti](https://github.com/vkoshti)
+
 
 # TO-dO
 ```
