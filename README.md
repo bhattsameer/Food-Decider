@@ -12,7 +12,7 @@ I have added some extra feature.
 https://www.youtube.com/watch?v=sZWMPYIkNd8 </br>
 https://devslopes.com
 
-Thanks For [Vishal Koshti](https://github.com/vkoshti)
+Thanks to [Vishal Koshti](https://github.com/vkoshti)
 
 # TO-dO
 ```
